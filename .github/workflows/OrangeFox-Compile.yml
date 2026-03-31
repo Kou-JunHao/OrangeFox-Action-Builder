@@ -20,7 +20,7 @@ on:
       DEVICE_TREE:
         description: 'OrangeFox Device Tree'
         required: true
-        default: 'https://github.com/Kou-JunHao/android_device_xiaomi_myron'
+        default: 'https://github.com/Myron-Forge/android_device_xiaomi_myron'
       DEVICE_TREE_BRANCH:
         description: 'OrangeFox Device Tree Branch'
         required: true
