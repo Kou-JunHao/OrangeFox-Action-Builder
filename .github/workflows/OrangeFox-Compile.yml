@@ -24,7 +24,7 @@ on:
       DEVICE_TREE_BRANCH:
         description: 'OrangeFox Device Tree Branch'
         required: true
-        default: 'main'
+        default: 'miodm_myron-user-16-BQ2A.250705.001-BP2A.250605.031.A3-OS3.0.23.0.WPMCNXM-release-keys'
       DEVICE_PATH:
         description: 'Specify your Device Path'
         required: true
